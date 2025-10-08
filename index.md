@@ -15,25 +15,29 @@ I am originally from Brazil.
 
 <img src="phoot.jpg" alt="Me" width="250">
 
-My research interests are hypergeometric functions over finite fields, K3 surfaces, Picard-Fuchs equations, A-hypergeometric functions over finite fields, L-functions of K3 surfaces, A-hypergeometric systems and, more recently, also Taylor Varieties. 
+### Research Interests
 
-I have a preprint on arXiv: 
+Hypergeometric functions over finite fields, K3 surfaces, Picard-Fuchs equations, A-hypergeometric functions over finite fields, L-functions of K3 surfaces, A-hypergeometric systems and, more recently, also Taylor Varieties. 
+
+### Papers
+
+Preprint on the arXiv: 
 
 <a href="https://arxiv.org/abs/2508.15049">Hypergeometric decomposition of Delsarte K3 pencils </a> (with Rachel Davis, Jessamyn Dukes, Eli Orvis, Adriana Salerno, Leah Sturman, Ursula Whitcher), 44 pages. 
 
-I have given the following talks: 
+### Talks 
 
-A hypergeometric family of quartics in P^3, point counts, periods and L-function, CAGE at Leiden 2025 (short talk/young participants), Universiteit Leiden. September 17th, 2025.
+- A hypergeometric family of quartics in P^3, point counts, periods and L-function, CAGE at Leiden 2025 (short talk/young participants), Universiteit Leiden. September 17th, 2025.
 
-Taylor Varieties, Women in Numbers Europe 5, A 15-minute presentation of the group’s results, delivered by the youngest member. August 22nd, 2025. 
+- Taylor Varieties, Women in Numbers Europe 5, A 15-minute presentation of the group’s results, delivered by the youngest member. August 22nd, 2025. 
 
-Hypergeometric Structures of Invertible Pencils of Prime Chains, Junior Geometry Seminar, University College London. June 9th, 2025.
+- Hypergeometric Structures of Invertible Pencils of Prime Chains, Junior Geometry Seminar, University College London. June 9th, 2025.
 
-Hypergeometric Structures of a Family of K3 Surfaces, PG Forum, Lancaster University. June 4th, 2025.
+- Hypergeometric Structures of a Family of K3 Surfaces, PG Forum, Lancaster University. June 4th, 2025.
 
-A hypergeometric correspondence for a family of K3 surfaces (short/contributed talk), WINGs, Mercure Haydock Hotel, April 2nd, 2025. 
+- A hypergeometric correspondence for a family of K3 surfaces (short/contributed talk), WINGs, Mercure Haydock Hotel, April 2nd, 2025. 
 
-Counting Points of a Family of Hypersurfaces using Finite Field Hypergeometric Sums, GMP Student`s Seminar, University of Birmingham. May 2024.
+- Counting Points of a Family of Hypersurfaces using Finite Field Hypergeometric Sums, GMP Student`s Seminar, University of Birmingham. May 2024.
 
 
 
