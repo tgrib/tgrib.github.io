@@ -3,6 +3,10 @@ layout: default
 title: 
 ---
 
+- [About](/about/)
+- [Research](/research/)
+- [Contact](/contact/)
+
 ### Talks 
 
 - A hypergeometric family of quartics in P^3, point counts, periods and L-function, CAGE at Leiden 2025 (short talk/young participants), Universiteit Leiden. September 17th, 2025.
