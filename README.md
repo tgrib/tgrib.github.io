@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/tgrib/tgrib.github.io/main/phoot.jpg" alt="My Photo" width="250">
+<img src="https://raw.githubusercontent.com/tgrib/tgrib.github.io/main/phoot.jpg" alt="My Photo" width="300">
