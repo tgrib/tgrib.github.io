@@ -13,7 +13,7 @@ I am a Christian, Reformed Presbyterian. All my worldviews come from the Bible. 
 
 I am originally from Brazil. 
 
-![Alt text](tgrib.github.io/phoot.jpg)
+![Alt text](phoot.jpg)
 
 
 
