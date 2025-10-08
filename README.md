@@ -1,1 +1,1 @@
-<img src="main/phott.jpg" class="inline"/>
+![Alt Text](main/phott.jpg)
