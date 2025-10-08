@@ -13,14 +13,6 @@ I am originally from Brazil.
 
 <img src="phoot.jpg" alt="Me" width="250">
 
-### Research Interests
-
-Hypergeometric functions over finite fields, K3 surfaces, Picard-Fuchs equations, A-hypergeometric functions over finite fields, L-functions of K3 surfaces, A-hypergeometric systems and, more recently, also Taylor Varieties. 
-
-### Preprint 
-
-<a href="https://arxiv.org/abs/2508.15049">Hypergeometric decomposition of Delsarte K3 pencils </a> (with Rachel Davis, Jessamyn Dukes, Eli Orvis, Adriana Salerno, Leah Sturman, Ursula Whitcher), 44 pages. 
-
 ### Talks 
 
 - A hypergeometric family of quartics in P^3, point counts, periods and L-function, CAGE at Leiden 2025 (short talk/young participants), Universiteit Leiden. September 17th, 2025.
