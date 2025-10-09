@@ -24,7 +24,8 @@ Algebraic Geometry and Number Theory
 
 ### Specific
 - Hypergeometric functions over finite fields
-- K3 surfaces, Picard-Fuchs equations
+- K3 surfaces
+- Picard-Fuchs equations
 - A-hypergeometric functions over finite fields
 - L-functions of K3 surfaces
 - A-hypergeometric (GKZ) systems
