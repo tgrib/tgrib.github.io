@@ -19,11 +19,16 @@ I am originally from Brazil.</p>
 
 <h2> Research Interests </h2> 
 
-### General
+### General 
 Algebraic Geometry and Number Theory
 
 ### Specific
-Hypergeometric functions over finite fields, K3 surfaces, Picard-Fuchs equations, A-hypergeometric functions over finite fields, L-functions of K3 surfaces, A-hypergeometric systems and, more recently, also Taylor Varieties. 
+- Hypergeometric functions over finite fields
+- K3 surfaces, Picard-Fuchs equations
+- A-hypergeometric functions over finite fields
+- L-functions of K3 surfaces
+- A-hypergeometric (GKZ) systems
+- Taylor Varieties. 
 
 <h2> Preprint </h2>
 
