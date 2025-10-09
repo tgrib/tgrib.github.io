@@ -3,10 +3,20 @@ layout: default
 title: Research
 permalink: /research/
 ---
-### Research Interests
+<h2> Research Interests </h2> 
 
-Hypergeometric functions over finite fields, K3 surfaces, Picard-Fuchs equations, A-hypergeometric functions over finite fields, L-functions of K3 surfaces, A-hypergeometric systems and, more recently, also Taylor Varieties. 
+### General 
+Algebraic Geometry and Number Theory
 
-### Preprint 
+### Specific
+- Hypergeometric functions over finite fields
+- K3 surfaces
+- Picard-Fuchs equations
+- A-hypergeometric functions over finite fields
+- L-functions of K3 surfaces
+- A-hypergeometric (GKZ) systems
+- Taylor Varieties. 
+
+<h2> Preprint </h2>
 
 <a href="https://arxiv.org/abs/2508.15049">Hypergeometric decomposition of Delsarte K3 pencils </a> (with Rachel Davis, Jessamyn Dukes, Eli Orvis, Adriana Salerno, Leah Sturman, Ursula Whitcher), 44 pages. 
