@@ -4,9 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
-  <img src="research.jpg" alt="Descriptive alt text" style="width: 250px; border-radius: 8px;">
-  <div>
+ <img src="research.jpg" alt="Descriptive alt text" style="width: 250px; border-radius: 8px;">
 
 <h2> Research</h2> 
 
