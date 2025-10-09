@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
- <img src="research.jpg" style="width: 250px; border-radius: 8px;">
+ <img src="res.jpg" style="width: 250px; border-radius: 8px;">
 
 <h2> Research</h2> 
 
