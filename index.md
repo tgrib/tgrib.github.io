@@ -91,4 +91,48 @@ Hypergeometric functions over finite fields, K3 surfaces, Picard-Fuchs equations
 
 - <a href="https://impa.br/3emmi/">3rd EMMI</a>, IMPA, Rio de Janeiro, Brazil. May 12. 
 
-- <a href="https://impa.br/arquivo_base/eventos-do-impa/2023-2/15o-alga-algebra-comutativa-e-geometria-algebrica/">15th Algebraic Geometry and Commutative Algebra (ALGA)</a>, IMPA, Rio de Janeiro, Brazil. February 06-10. 
+- <a href="https://impa.br/arquivo_base/eventos-do-impa/2023-2/15o-alga-algebra-comutativa-e-geometria-algebrica/">15th Algebraic Geometry and Commutative Algebra (ALGA)</a>, IMPA, Rio de Janeiro, Brazil. February 06-10.
+
+<h1>Teaching</h1>
+Since September 2023, I have been working as a Postgraduate Teaching Assistant at the University of Birmingham, for both guided study sessions and marking. The Modules I have assisted with are listed below.
+
+### Autumn 2025 
+
+- Topology & Metric Spaces (marking and demonstration).
+  
+- Sequences & Series (marking and demonstration).
+  
+- Algebra & Combinatorics (demonstration only).
+
+### Spring 2025 
+
+- Disability Support for Years 1 and 2.
+  
+- Topology & Metric Spaces (marking and demonstration).
+  
+- JBJI Algebra and Combinatorics (marking only).
+  
+- JBJI Vectors, Geometry and Linear Algebra (marking only).
+
+### Autumn 2024 
+
+- Disability Support for Years 1 and 2.
+
+- Topology & Metric Spaces (marking and demonstration).
+
+- Sequences & Series (marking and demonstration).
+
+- Algebra & Combinatorics (demonstration only).
+
+### Spring 2024 
+
+- Real and Complex Analysis (marking and demonstration).
+
+### Autumn 2023 
+
+- Year 1 - LaTeX Workshops (marking and demonstration).
+
+
+
+
+
