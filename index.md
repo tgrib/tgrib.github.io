@@ -11,6 +11,14 @@ I am a Christian, Reformed Presbyterian. All my worldviews come from the Bible. 
 
 I am originally from Brazil. 
 
+<div style="display: flex; align-items: center; gap: 20px; margin-top: 20px;">
+  <img src="phoot.jpg" alt="Descriptive alt text" style="width: 200px; border-radius: 8px;">
+  <div>
+    <h2>Your Heading</h2>
+    <p>Your descriptive text goes here. This layout will place the image on the left and the text on the right, side by side.</p>
+  </div>
+</div>
+
 <img src="phoot.jpg" alt="Me" width="250">
 
 - [Research](/research/)
