@@ -3,6 +3,9 @@ layout: default
 title: Research
 permalink: /research/
 ---
+
+<img src="research.jpg" alt="Research illustration or photo">
+
 <h2> Research</h2> 
 
 ### General 
