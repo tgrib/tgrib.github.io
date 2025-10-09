@@ -14,12 +14,6 @@ Contact me at <a href="mailto:txg306@student.bham.ac.uk">txg306@student.bham.ac.
 I am a Christian, Reformed Presbyterian. All my worldviews come from the Bible. I follow the <a href="https://thewestminsterstandard.org/the-westminster-standards/">Westminster Standards of Faith</a>. 
 <br><br>
 I am originally from Brazil.</p>
-<br> <br>
-
-  - [Research](/research/)
-  - [Talks](/talks/)
-  - [Events](/events/)
-    
   </div>
 </div>
 
