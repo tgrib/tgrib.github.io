@@ -3,7 +3,7 @@ layout: default
 title: Research
 permalink: /research/
 ---
-<h2> Research Interests </h2> 
+<h2> Research</h2> 
 
 ### General 
 Algebraic Geometry and Number Theory
