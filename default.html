@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | https://github.com/tgrib/tgrib.github.io/blob/main/index.md }}">
+  </head>
+  <body>
+
+    <!-- 🔻 Navigation Header -->
+    <header>
+      <nav>
+        <ul style="list-style: none; display: flex; gap: 15px; padding: 10px;">
+          <li><a href="{{ "/about/" | https://github.com/tgrib/tgrib.github.io/blob/main/research.md }}">About</a></li>
+          <li><a href="{{ "/research/" | https://github.com/tgrib/tgrib.github.io/blob/main/research.md }}">CV</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+  </body>
+</html>
