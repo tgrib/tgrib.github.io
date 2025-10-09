@@ -20,6 +20,5 @@ Algebraic Geometry and Number Theory
 - A-hypergeometric (GKZ) systems
 - Taylor Varieties. 
 
-<h2> Preprint </h2>
-
+### Preprint 
 <a href="https://arxiv.org/abs/2508.15049">Hypergeometric decomposition of Delsarte K3 pencils </a> (with Rachel Davis, Jessamyn Dukes, Eli Orvis, Adriana Salerno, Leah Sturman, Ursula Whitcher), 44 pages. 
