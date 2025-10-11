@@ -37,8 +37,6 @@ permalink: /research/
 
 <img src="/research.jpg" alt="Research image" style="float: right; width: 500px; margin-left: 20px; margin-top: 90px; border-radius: 8px;">
 
-<h2> Research</h2> 
-
 ### General 
 Algebraic Geometry and Number Theory
 
