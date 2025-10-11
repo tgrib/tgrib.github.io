@@ -43,7 +43,7 @@ Since September 2023, I have been working as a Postgraduate Teaching Assistant a
   
 - Sequences & Series (marking and demonstration).
   
-- Algebra & Combinatorics (demonstration only).
+- Algebra & Combinatorics (marking and demonstration).
 
 ### Spring 2025 
 
