@@ -35,8 +35,6 @@ permalink: /teaching/
 }
 </style>
 
-<h2>Teaching</h2>
-
 Since September 2023, I have been working as a Postgraduate Teaching Assistant at the University of Birmingham, for both guided study sessions and marking. The Modules I have assisted with are listed below.
 
 ### Autumn 2025 
