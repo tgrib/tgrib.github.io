@@ -35,6 +35,8 @@ permalink: /events/
 }
 </style>
 
+<img src="/events.jpg" alt="Research image" style="float: right; width: 500px; margin-left: 20px; margin-top: 25px; border-radius: 8px;">
+
 ### 2025
 
 - <a href="https://indico.ictp.it/event/10965/overview">Winter School on Number Theory and Physics</a>, ICTP, Italy. November 17-28.
