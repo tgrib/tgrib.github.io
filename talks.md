@@ -35,6 +35,8 @@ permalink: /talks/
 }
 </style>
 
+<img src="/talks.jpg" alt="Research image" style="float: right; width: 500px; margin-left: 20px; margin-top: 25px; border-radius: 8px;">
+
 - A hypergeometric family of quartics in P^3, point counts, periods and L-function, <a href="https://sites.google.com/view/cage-at-leiden/home">CAGE at Leiden 2025</a> (short talk/young participants), Universiteit Leiden. September 17th, 2025.
 
 - Taylor Varieties, <a href="https://wine5.math.hr/">Women in Numbers Europe 5</a>, A 15-minute presentation of the group’s results, delivered by the youngest member. August 22nd, 2025. 
