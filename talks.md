@@ -35,7 +35,7 @@ permalink: /talks/
 }
 </style>
 
-<img src="/talks.jpg" alt="Research image" style="float: right; width: 400px; margin-left: 20px; margin-top: 25px; border-radius: 8px;">
+<img src="/talks.jpg" alt="Research image" style="float: right; width: 450px; margin-left: 20px; margin-top: 25px; border-radius: 8px;">
 
 - A hypergeometric family of quartics in P^3, point counts, periods and L-function, <a href="https://sites.google.com/view/cage-at-leiden/home">CAGE at Leiden 2025</a> (short talk/young participants), Universiteit Leiden. September 17th, 2025.
 
