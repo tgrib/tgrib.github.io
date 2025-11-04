@@ -51,3 +51,6 @@ Algebraic Geometry and Number Theory
 
 ### Preprint 
 <a href="https://arxiv.org/abs/2508.15049">Hypergeometric decomposition of Delsarte K3 pencils </a> (with Rachel Davis, Jessamyn Dukes, Eli Orvis, Adriana Salerno, Leah Sturman, Ursula Whitcher), 44 pages. 
+
+### Research Visit 
+In February 2026, I will be a visiting research student at the University of Sydney, visiting Professor <a href="https://jvoight.github.io/">John Voight ,</a>. 
