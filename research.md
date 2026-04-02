@@ -33,9 +33,6 @@ permalink: /research/
 .nav-link:hover {
   text-decoration: underline;
 }
-</style>
-
-<img src="/research.jpg" alt="Research image" style="float: right; width: 500px; margin-left: 20px; margin-top: 25px; border-radius: 8px;">
 
 ### General 
 Algebraic Geometry and Computational Number Theory
