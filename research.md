@@ -33,7 +33,8 @@ permalink: /research/
 .nav-link:hover {
   text-decoration: underline;
 }
-
+</style>
+  
 ### General 
 Algebraic Geometry and Computational Number Theory
 
