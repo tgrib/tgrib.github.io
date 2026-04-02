@@ -50,7 +50,7 @@ Algebraic Geometry and Computational Number Theory
 ### Preprint 
 <a href="https://arxiv.org/abs/2508.15049">Hypergeometric decomposition of Delsarte K3 pencils </a> (with Rachel Davis, Jessamyn Dukes, Eli Orvis, Adriana Salerno, Leah Sturman, Ursula Whitcher), 44 pages. 
 
-### Research Visit 
-From February 1 to March 6, 2026, I was a Visiting Research Student in the School of Mathematics and Statistics at the University of Sydney, Australia. I worked with Professor John Voight, together with Professor Tyler Kelly. The visit was funded by the University of Sydney and by the Turing Scheme Cost of Living and SEND Grant from the University of Birmingham.
+### Visits 
+- From February 1 to March 6, 2026, I was a Visiting Research Student in the School of Mathematics and Statistics at the University of Sydney, Australia. I worked with Professor John Voight, together with Professor Tyler Kelly. The visit was funded by the University of Sydney and by the Turing Scheme Cost of Living and SEND Grant from the University of Birmingham.
 
-From July 7 to 11, 2025, I visited Brown University for the <a href="https://icerm.brown.edu/collaborate#section-11"> Collaborate@ICERM - Arithmetic data for Delsarte K3 surfaces </a>.
+- From July 7 to 11, 2025, I visited Brown University for the <a href="https://icerm.brown.edu/collaborate#section-11"> Collaborate@ICERM - Arithmetic data for Delsarte K3 surfaces </a>.
