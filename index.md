@@ -40,7 +40,7 @@ permalink: /
   <div>
     <p>My name is Thais Gomes Ribeiro. I am a third-year <a href="https://www.birmingham.ac.uk/staff/profiles/maths/phd-students/gomes-ribeiro-thais">PhD student</a> in Pure Mathematics at the University of Birmingham, under the supervision of <a href="https://sites.google.com/view/tylerkelly/home">Professor Tyler Kelly</a>. 
 <br><br>      
-My CV can be found <a href="https://drive.google.com/file/d/10B-28fRv1qAv6o9jzTx_rJT9Oo-oVHKf/view?usp=sharing">here</a>. 
+My CV can be found <a href="https://drive.google.com/file/d/1zeLoHY6GMaCdYROZ1xbbM_carvq80jiP/view?usp=sharing">here</a>. 
 <br> <br>
 Contact me at <a href="mailto:txg306@student.bham.ac.uk">txg306@student.bham.ac.uk</a>. 
 <br> <br>
