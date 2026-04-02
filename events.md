@@ -35,6 +35,16 @@ permalink: /events/
 }
 </style>
 
+### 2026 
+
+- <a href="https://icerm.brown.edu/program/semester_program_workshop/sp-f26-w1"> Mirror Symmetry, Calabi-Yau Threefolds, and Connections to Physics </a>, ICERM, United States. September 28 - October 2. 
+
+
+- <a href="https://sites.google.com/view/gaelxxxiii/home"> GAeLXXXIII </a>, Universiteit Leiden, the Netherlands. June 29-July 3.
+
+- <a href="https://wings2026.github.io/"> WINGs </a>, DoubleTree by Hilton Cheltenham-Cotswolds Hotel, UK. April 13-16.
+
+
 ### 2025
 
 - <a href="https://indico.ictp.it/event/10965/overview">Winter School on Number Theory and Physics</a>, ICTP, Italy. November 17-28.
