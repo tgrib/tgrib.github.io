@@ -38,19 +38,19 @@ permalink: /research/
 <img src="/research.jpg" alt="Research image" style="float: right; width: 500px; margin-left: 20px; margin-top: 25px; border-radius: 8px;">
 
 ### General 
-Algebraic Geometry and Number Theory
+Algebraic Geometry and Computational Number Theory
 
 ### Specific
-- Hypergeometric functions over finite fields
-- K3 surfaces
-- Picard-Fuchs equations
-- A-hypergeometric functions over finite fields
-- L-functions of K3 surfaces
-- A-hypergeometric (GKZ) systems
-- Taylor Varieties. 
+- Rational points on algebraic varieties over finite fields (especially on K3 surfaces).
+- Hypergeometric and A-hypergeometric functions over finite fields (especially Appell-Lauricella).
+- Picard-Fuchs equations, periods and A-hypergeometric systems. 
+- L-functions.
+- Taylor varieties. 
 
 ### Preprint 
 <a href="https://arxiv.org/abs/2508.15049">Hypergeometric decomposition of Delsarte K3 pencils </a> (with Rachel Davis, Jessamyn Dukes, Eli Orvis, Adriana Salerno, Leah Sturman, Ursula Whitcher), 44 pages. 
 
 ### Research Visit 
-In February 2026, I will be a visiting research student at the University of Sydney, visiting Professor <a href="https://jvoight.github.io/">John Voight</a>. 
+From February 1 to March 6, 2026, I was a Visiting Research Student in the School of Mathematics and Statistics at the University of Sydney, Australia. I worked with Professor John Voight, together with Professor Tyler Kelly. The visit was funded by the University of Sydney and by the Turing Scheme Cost of Living and SEND Grant from the University of Birmingham.
+
+From July 7 to 11, 2025, I visited Brown University for the Collaborate@ICERM - Arithmetic data for Delsarte K3 surfaces.
