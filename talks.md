@@ -34,6 +34,7 @@ permalink: /talks/
   text-decoration: underline;
 }
 </style>
+- Appell hypergeometric functions, <a href="[https://sites.google.com/view/cage-at-leiden/home](https://wings2026.github.io/#talks)">WINGs</a>, DoubleTree by Hilton Cheltenham-Cotswolds Hotel (short/contributed talks). April 14th, 2026.
 
 - A hypergeometric family of quartics in P^3, point counts, periods and L-function, <a href="https://sites.google.com/view/cage-at-leiden/home">CAGE at Leiden 2025</a> (short talk/young participants), Universiteit Leiden. September 17th, 2025.
 
